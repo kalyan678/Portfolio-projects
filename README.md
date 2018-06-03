@@ -1,3 +1,3 @@
 # Portfolio-projects
 
-Contains Projects done by me for internships or general practice
+Internship project by Govt Of Andhra Pradesh under AP Janambhoomi School Project.
