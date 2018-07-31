@@ -11,3 +11,11 @@
  Software Used: Tableau
 
 </p>
+
+<p align="center">
+  
+  ## 2. A Complete Guide to Machine Learning(in R) for Beginners 
+  
+  A series of articles for complete beginners in Machine Learning. The series written in 'R' statistical language helps to acquaint the newbies with the nuances on Machine Learning.It helps to foster the fundamentals in a veru concise and lucid way.
+  
+  
