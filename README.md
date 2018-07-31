@@ -8,6 +8,6 @@
 
  A project aiming to MAP Data from different tables, analyze Data, Portray the Data in effective visual presentations and predict future    outcomes.
 
- ## Software Used: Tableau
+ Software Used: Tableau
 
 </p>
